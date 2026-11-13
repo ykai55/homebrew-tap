@@ -1,6 +1,6 @@
 cask "menulauncher" do
-  version "0.2.5"
-  sha256 "c0473b547f9f475e83a492da47cdd9263fa1d146be2df52c787c07853c8511c9"
+  version "0.2.6"
+  sha256 "be8b1e3a2cea4c42b5c574e18e66fb31d621de3d8ae0a652a00fb5f5052db1b7"
 
   url "https://github.com/ykai55/menubar-launcher/releases/download/v#{version}/MenuLauncher.zip"
   name "MenuLauncher"
